@@ -104,7 +104,8 @@ class FreeProxy:
     def _parse_source(self, content: bytes, source_name: str) -> List[Dict[str, str]]:
         """Parse different proxy source formats"""
         tree = html.fromstring(content)
-        rows = tree.xpath('//table[@id="proxylisttable" or @id="list"]/tbody/tr')
+        rows = tree.xpath('//div[contains(@class, "fpl-list")]/table/tbody/tr')
+
         
         proxies = []
         for row in rows:

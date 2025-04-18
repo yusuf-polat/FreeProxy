@@ -1,0 +1,34 @@
+2025-04-18 19:28:21,093 - INFO - reCAPTCHA çözme denemesi 1/5
+2025-04-18 19:28:21,102 - INFO - reCAPTCHA site key bulundu: 6Le-wvkSAAAAAPBMRTvw0Q4Muexq9bi0DJwx_mJ-
+2025-04-18 19:28:21,102 - INFO - PyPasser ile reCAPTCHA V3 çözülüyor...
+2025-04-18 19:28:21,102 - WARNING - PyPasser ile reCAPTCHA V3 çözülemedi: reCaptchaV3.__init__() got an unexpected keyword argument 'sitekey'
+2025-04-18 19:28:21,102 - INFO - PyPasser ile reCAPTCHA V2 çözülüyor...
+2025-04-18 19:28:21,102 - WARNING - PyPasser ile reCAPTCHA V2 çözülemedi: reCaptchaV2.__init__() got an unexpected keyword argument 'sitekey'
+2025-04-18 19:28:21,103 - ERROR - PyPasser ile reCAPTCHA çözülemedi
+2025-04-18 19:28:21,165 - INFO - reCAPTCHA checkbox iframe'i bulundu: {'x': 33, 'y': 336}
+2025-04-18 19:28:26,757 - INFO - reCAPTCHA checkbox iframe'i bulundu: {'x': 33, 'y': 336}
+2025-04-18 19:28:26,780 - INFO - reCAPTCHA challenge iframe'i bulundu: {'x': 1, 'y': -9999}
+2025-04-18 19:28:43,114 - INFO - reCAPTCHA checkbox iframe'i bulundu: {'x': 33, 'y': 336}
+2025-04-18 19:28:43,158 - INFO - reCAPTCHA challenge iframe'i bulundu: {'x': 1, 'y': -9999}
+2025-04-18 19:28:54,579 - INFO - reCAPTCHA çözme denemesi 2/5
+2025-04-18 19:28:54,599 - INFO - reCAPTCHA site key bulundu: 6Le-wvkSAAAAAPBMRTvw0Q4Muexq9bi0DJwx_mJ-
+2025-04-18 19:28:54,600 - INFO - PyPasser ile reCAPTCHA V3 çözülüyor...
+2025-04-18 19:28:54,600 - WARNING - PyPasser ile reCAPTCHA V3 çözülemedi: reCaptchaV3.__init__() got an unexpected keyword argument 'sitekey'
+2025-04-18 19:28:54,600 - INFO - PyPasser ile reCAPTCHA V2 çözülüyor...
+2025-04-18 19:28:54,600 - WARNING - PyPasser ile reCAPTCHA V2 çözülemedi: reCaptchaV2.__init__() got an unexpected keyword argument 'sitekey'
+2025-04-18 19:28:54,601 - ERROR - PyPasser ile reCAPTCHA çözülemedi
+2025-04-18 19:28:54,656 - INFO - reCAPTCHA checkbox iframe'i bulundu: {'x': 33, 'y': 336}
+2025-04-18 19:28:54,692 - INFO - reCAPTCHA challenge iframe'i bulundu: {'x': 84, 'y': 84}
+2025-04-18 19:29:01,076 - INFO - reCAPTCHA checkbox iframe'i bulundu: {'x': 33, 'y': 336}
+2025-04-18 19:29:01,108 - INFO - reCAPTCHA challenge iframe'i bulundu: {'x': 84, 'y': -9999}
+2025-04-18 19:29:07,133 - INFO - reCAPTCHA checkbox iframe'i bulundu: {'x': 33, 'y': 336}
+2025-04-18 19:29:07,170 - INFO - reCAPTCHA challenge iframe'i bulundu: {'x': 84, 'y': -9999}
+2025-04-18 19:29:19,066 - INFO - reCAPTCHA çözme denemesi 3/5
+2025-04-18 19:29:19,079 - INFO - reCAPTCHA site key bulundu: 6Le-wvkSAAAAAPBMRTvw0Q4Muexq9bi0DJwx_mJ-
+2025-04-18 19:29:19,080 - INFO - PyPasser ile reCAPTCHA V3 çözülüyor...
+2025-04-18 19:29:19,080 - WARNING - PyPasser ile reCAPTCHA V3 çözülemedi: reCaptchaV3.__init__() got an unexpected keyword argument 'sitekey'
+2025-04-18 19:29:19,080 - INFO - PyPasser ile reCAPTCHA V2 çözülüyor...
+2025-04-18 19:29:19,080 - WARNING - PyPasser ile reCAPTCHA V2 çözülemedi: reCaptchaV2.__init__() got an unexpected keyword argument 'sitekey'
+2025-04-18 19:29:19,080 - ERROR - PyPasser ile reCAPTCHA çözülemedi
+2025-04-18 19:29:19,120 - INFO - reCAPTCHA checkbox iframe'i bulundu: {'x': 33, 'y': 336}
+2025-04-18 19:29:19,158 - INFO - reCAPTCHA challenge iframe'i bulundu: {'x': 84, 'y': -9999}

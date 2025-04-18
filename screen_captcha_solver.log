@@ -1,0 +1,62 @@
+2025-04-18 19:00:18,790 - INFO - YOLOv8n modeli yüklendi
+2025-04-18 19:00:21,241 - INFO - reCAPTCHA çözme denemesi 1/5
+2025-04-18 19:00:26,920 - INFO - Ekran görüntüsü kaydedildi: challenge_0.png
+2025-04-18 19:00:26,920 - INFO - Hedef nesne: car
+2025-04-18 19:00:26,922 - INFO - Ekran görüntüsü kaydedildi: cell_0_0.png
+2025-04-18 19:00:34,596 - INFO - Ekran görüntüsü kaydedildi: cell_0_1.png
+2025-04-18 19:00:34,688 - INFO - Ekran görüntüsü kaydedildi: cell_0_2.png
+2025-04-18 19:00:34,777 - INFO - Ekran görüntüsü kaydedildi: cell_1_0.png
+2025-04-18 19:00:34,865 - INFO - Ekran görüntüsü kaydedildi: cell_1_1.png
+2025-04-18 19:00:34,965 - INFO - Ekran görüntüsü kaydedildi: cell_1_2.png
+2025-04-18 19:00:35,061 - INFO - Ekran görüntüsü kaydedildi: cell_2_0.png
+2025-04-18 19:00:35,144 - INFO - Ekran görüntüsü kaydedildi: cell_2_1.png
+2025-04-18 19:00:35,234 - INFO - Ekran görüntüsü kaydedildi: cell_2_2.png
+2025-04-18 19:00:35,333 - INFO - reCAPTCHA çözme denemesi 2/5
+2025-04-18 19:00:41,719 - INFO - Ekran görüntüsü kaydedildi: challenge_1.png
+2025-04-18 19:00:41,719 - INFO - Hedef nesne: car
+2025-04-18 19:00:41,720 - INFO - Ekran görüntüsü kaydedildi: cell_0_0.png
+2025-04-18 19:00:41,826 - INFO - Ekran görüntüsü kaydedildi: cell_0_1.png
+2025-04-18 19:00:41,920 - INFO - Ekran görüntüsü kaydedildi: cell_0_2.png
+2025-04-18 19:00:42,018 - INFO - Ekran görüntüsü kaydedildi: cell_1_0.png
+2025-04-18 19:00:42,113 - INFO - Ekran görüntüsü kaydedildi: cell_1_1.png
+2025-04-18 19:00:42,198 - INFO - Ekran görüntüsü kaydedildi: cell_1_2.png
+2025-04-18 19:00:42,290 - INFO - Ekran görüntüsü kaydedildi: cell_2_0.png
+2025-04-18 19:00:42,366 - INFO - Ekran görüntüsü kaydedildi: cell_2_1.png
+2025-04-18 19:00:42,478 - INFO - Ekran görüntüsü kaydedildi: cell_2_2.png
+2025-04-18 19:00:42,573 - INFO - reCAPTCHA çözme denemesi 3/5
+2025-04-18 19:00:48,361 - INFO - Ekran görüntüsü kaydedildi: challenge_2.png
+2025-04-18 19:00:48,361 - INFO - Hedef nesne: car
+2025-04-18 19:00:48,362 - INFO - Ekran görüntüsü kaydedildi: cell_0_0.png
+2025-04-18 19:00:48,426 - INFO - Ekran görüntüsü kaydedildi: cell_0_1.png
+2025-04-18 19:00:48,488 - INFO - Ekran görüntüsü kaydedildi: cell_0_2.png
+2025-04-18 19:00:48,574 - INFO - Ekran görüntüsü kaydedildi: cell_1_0.png
+2025-04-18 19:00:48,657 - INFO - Ekran görüntüsü kaydedildi: cell_1_1.png
+2025-04-18 19:00:48,749 - INFO - Ekran görüntüsü kaydedildi: cell_1_2.png
+2025-04-18 19:00:48,839 - INFO - Ekran görüntüsü kaydedildi: cell_2_0.png
+2025-04-18 19:00:48,922 - INFO - Ekran görüntüsü kaydedildi: cell_2_1.png
+2025-04-18 19:00:49,002 - INFO - Ekran görüntüsü kaydedildi: cell_2_2.png
+2025-04-18 19:00:49,097 - INFO - reCAPTCHA çözme denemesi 4/5
+2025-04-18 19:00:54,133 - INFO - Ekran görüntüsü kaydedildi: challenge_3.png
+2025-04-18 19:00:54,133 - INFO - Hedef nesne: car
+2025-04-18 19:00:54,138 - INFO - Ekran görüntüsü kaydedildi: cell_0_0.png
+2025-04-18 19:00:54,224 - INFO - Ekran görüntüsü kaydedildi: cell_0_1.png
+2025-04-18 19:00:54,312 - INFO - Ekran görüntüsü kaydedildi: cell_0_2.png
+2025-04-18 19:00:54,398 - INFO - Ekran görüntüsü kaydedildi: cell_1_0.png
+2025-04-18 19:00:54,486 - INFO - Ekran görüntüsü kaydedildi: cell_1_1.png
+2025-04-18 19:00:54,576 - INFO - Ekran görüntüsü kaydedildi: cell_1_2.png
+2025-04-18 19:00:54,664 - INFO - Ekran görüntüsü kaydedildi: cell_2_0.png
+2025-04-18 19:00:54,750 - INFO - Ekran görüntüsü kaydedildi: cell_2_1.png
+2025-04-18 19:00:54,829 - INFO - Ekran görüntüsü kaydedildi: cell_2_2.png
+2025-04-18 19:00:54,907 - INFO - reCAPTCHA çözme denemesi 5/5
+2025-04-18 19:01:01,257 - INFO - Ekran görüntüsü kaydedildi: challenge_4.png
+2025-04-18 19:01:01,257 - INFO - Hedef nesne: car
+2025-04-18 19:01:01,278 - INFO - Ekran görüntüsü kaydedildi: cell_0_0.png
+2025-04-18 19:01:01,369 - INFO - Ekran görüntüsü kaydedildi: cell_0_1.png
+2025-04-18 19:01:01,459 - INFO - Ekran görüntüsü kaydedildi: cell_0_2.png
+2025-04-18 19:01:01,538 - INFO - Ekran görüntüsü kaydedildi: cell_1_0.png
+2025-04-18 19:01:01,643 - INFO - Ekran görüntüsü kaydedildi: cell_1_1.png
+2025-04-18 19:01:01,756 - INFO - Ekran görüntüsü kaydedildi: cell_1_2.png
+2025-04-18 19:01:01,853 - INFO - Ekran görüntüsü kaydedildi: cell_2_0.png
+2025-04-18 19:01:01,939 - INFO - Ekran görüntüsü kaydedildi: cell_2_1.png
+2025-04-18 19:01:02,030 - INFO - Ekran görüntüsü kaydedildi: cell_2_2.png
+2025-04-18 19:01:02,115 - ERROR - reCAPTCHA çözülemedi.

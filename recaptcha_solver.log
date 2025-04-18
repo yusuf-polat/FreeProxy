@@ -1,0 +1,37 @@
+2025-04-18 18:50:03,532 - INFO - YOLOv8n modeli yüklendi
+2025-04-18 18:50:05,620 - INFO - reCAPTCHA çözme denemesi 1/5
+2025-04-18 18:50:05,672 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:50:08,909 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:50:14,038 - INFO - Challenge iframe'ine geçildi
+2025-04-18 18:50:14,056 - INFO - Hedef nesne: select all images with
+cars
+click verify once there are none left
+2025-04-18 18:50:24,271 - INFO - reCAPTCHA çözme denemesi 2/5
+2025-04-18 18:50:24,286 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:50:32,272 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:50:37,417 - INFO - Challenge iframe'ine geçildi
+2025-04-18 18:50:37,430 - INFO - Hedef nesne: select all images with
+cars
+click verify once there are none left
+2025-04-18 18:50:47,648 - INFO - reCAPTCHA çözme denemesi 3/5
+2025-04-18 18:50:47,666 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:50:55,259 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:51:00,365 - INFO - Challenge iframe'ine geçildi
+2025-04-18 18:51:00,373 - INFO - Hedef nesne: select all images with
+cars
+click verify once there are none left
+2025-04-18 18:51:10,564 - INFO - reCAPTCHA çözme denemesi 4/5
+2025-04-18 18:51:10,576 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:51:15,827 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:51:20,927 - INFO - Challenge iframe'ine geçildi
+2025-04-18 18:51:20,936 - INFO - Hedef nesne: select all images with
+cars
+click verify once there are none left
+2025-04-18 18:51:31,109 - INFO - reCAPTCHA çözme denemesi 5/5
+2025-04-18 18:51:31,128 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:51:39,194 - INFO - reCAPTCHA iframe'ine geçildi
+2025-04-18 18:51:44,302 - INFO - Challenge iframe'ine geçildi
+2025-04-18 18:51:44,310 - INFO - Hedef nesne: select all images with
+cars
+click verify once there are none left
+2025-04-18 18:51:54,632 - ERROR - reCAPTCHA çözülemedi.
